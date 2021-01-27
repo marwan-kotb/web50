@@ -1,0 +1,32 @@
+  form
+  {
+    text-align: center;  
+    margin-top: 120px;
+    margin-left: 13px;
+    
+  }
+  input[type=text]
+  {
+      width: 450px;
+      height: 25px;
+  }
+  input[type=submit]
+  {
+    background-color: blue;
+    color: white;
+  }
+  a{
+    padding-right: 10px;   
+    color: black;
+    text-decoration:none;
+    
+  }
+  a:hover{
+    text-decoration:underline;
+  }
+  h1{
+    text-align: center; 
+    margin-top: 150px;
+    font-size: 50px;
+  }
+  
